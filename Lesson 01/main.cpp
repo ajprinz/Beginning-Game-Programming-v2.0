@@ -8,7 +8,7 @@ const int SCREEN_HEIGHT = 480;
 
 // main requires arguments so SDL is cross platform
 int main(int argc, char* args[]) {
-    //The window we'll be rendering to
+    // The window we'll be rendering to
     SDL_Window* window = NULL;
 
     // The surface contained by the window
@@ -25,7 +25,7 @@ int main(int argc, char* args[]) {
             printf("Window could not be created! SDL_Error: %s\n", SDL_GetError());
         }
         else {
-            //Get window surface
+            // Get window surface
             screenSurface = SDL_GetWindowSurface(window);
 
             // Fill the surface white by drawing a white rectangle
