@@ -47,5 +47,4 @@ int main(int argc, char* args[]) {
         // Terminate the program
         return 0;
     }
-
 }
