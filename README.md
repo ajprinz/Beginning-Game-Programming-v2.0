@@ -1,3 +1,3 @@
-# Beginning-Game-Programming-v2.0
-Tutorial by Lazy Foo' Productions
-https://lazyfoo.net/tutorials/SDL/index.php
+# How To Make A Game With C++ and SDL
+
+This is the code base for my full tutorial series on my blog https://pleasehiremeplaystation.com/
