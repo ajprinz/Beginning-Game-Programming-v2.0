@@ -1,2 +1,2 @@
-# Lesson 01
+# Part 1
 Create your first window using SDL.
